@@ -12,3 +12,7 @@ D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.Properties.Resources.r
 D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.csproj.GenerateResource.Cache
 D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.exe
 D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.pdb
+D:\C# Programming\PaulPaint\PaulPaint\bin\Debug\PaulPaint.exe.manifest
+D:\C# Programming\PaulPaint\PaulPaint\bin\Debug\PaulPaint.application
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.exe.manifest
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.application

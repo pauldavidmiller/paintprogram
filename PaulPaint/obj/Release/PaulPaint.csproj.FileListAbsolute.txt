@@ -16,3 +16,4 @@ D:\C# Programming\PaulPaint\PaulPaint\bin\Release\PaulPaint.exe.manifest
 D:\C# Programming\PaulPaint\PaulPaint\bin\Release\PaulPaint.application
 D:\C# Programming\PaulPaint\PaulPaint\obj\Release\PaulPaint.exe.manifest
 D:\C# Programming\PaulPaint\PaulPaint\obj\Release\PaulPaint.application
+D:\C# Programming\PaulPaint\PaulPaint\obj\Release\PaulPaint.csprojResolveAssemblyReference.cache

@@ -9,6 +9,6 @@
         <BitmapImage x:Key="thickness2" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="pack://application:,,,/Images/dot2.png"/>
         <BitmapImage x:Key="thickness3" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="pack://application:,,,/Images/dot3.png"/>
         <BitmapImage x:Key="newCanvas" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="pack://application:,,,/Images/white.jpg"/>
-        <BitmapImage x:Key="mainIcon" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="pack://application:,,,/Images/imageeditor.ico"/>
+        <BitmapImage x:Key="mainIcon" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="pack://application:,,,/Images/coloredpencils.ico"/>
     </Application.Resources>
 </Application>

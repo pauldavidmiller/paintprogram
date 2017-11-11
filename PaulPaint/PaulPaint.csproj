@@ -14,7 +14,7 @@
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>publish\</PublishUrl>
+    <PublishUrl>D:\C# Programming\PaulPaint\PaulPaint\publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -50,7 +50,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Images\imageeditor.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>B45ECAE27E8472BE271BF498B0B0033FD561167F</ManifestCertificateThumbprint>
@@ -130,7 +131,6 @@
     <Resource Include="Images\dot1.jpg" />
     <Resource Include="Images\dot2.png" />
     <Resource Include="Images\dot3.png" />
-    <Resource Include="Images\imageeditor.ico" />
     <Resource Include="Images\mousepointer.jpg" />
     <Resource Include="Images\white.jpg" />
   </ItemGroup>
@@ -145,6 +145,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\coloredpencils.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
