@@ -1,0 +1,14 @@
+D:\C# Programming\PaulPaint\PaulPaint\bin\Debug\PaulPaint.exe.config
+D:\C# Programming\PaulPaint\PaulPaint\bin\Debug\PaulPaint.exe
+D:\C# Programming\PaulPaint\PaulPaint\bin\Debug\PaulPaint.pdb
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\MainWindow.baml
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\MainWindow.g.cs
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\App.g.cs
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint_MarkupCompile.cache
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint_MarkupCompile.lref
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\App.baml
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.g.resources
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.Properties.Resources.resources
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.csproj.GenerateResource.Cache
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.exe
+D:\C# Programming\PaulPaint\PaulPaint\obj\Debug\PaulPaint.pdb
